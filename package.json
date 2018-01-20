@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "rollup": "^0.54.1",
+    "rollup-plugin-serve": "^0.4.2"
+  },
+  "scripts": {
+    "start": "rollup -c -w"
+  }
+}
